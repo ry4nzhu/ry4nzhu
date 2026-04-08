@@ -1,6 +1,6 @@
 ## Hi, I'm Ruiyang Zhu 👋
 
-Ph.D. in CS @ UMich
+Ph.D. in CS @ UMich and 
 B.S in CE/ECE @ UMich/SJTU
 
 ### 🔬 Research
