@@ -27,6 +27,3 @@ I work on **AI + (Mobile) Networked Systems** — collaborative perception for a
   <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=FFA500">
 </p>
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=ry4nzhu&theme=radical)
