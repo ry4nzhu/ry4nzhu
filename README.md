@@ -10,7 +10,7 @@ I work on **AI + (Mobile) Networked Systems** — collaborative perception for a
 ### 💼 Experience
 
 - **Google** · Student Researcher, ML Profiler (XProf) · 2025
-- **Meta** · PhD Intern, Network Insights · 2025
+- **Meta** · PhD SWE Intern, Network Insights · 2025
 - **General Motors** · Research Intern, Connected Autonomous Vehicle Group · 2023, 2024
 
 ### 🛠️ Skills
